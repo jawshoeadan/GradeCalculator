@@ -3,7 +3,7 @@
 			{
 			"bundleIdentifier": "com.jawshoeadan.GradeCalculatorSwiftUI",
 			"developerName": "Joshua Daneshrad",
-			"downloadURL": "https://github.com/jawshoeadan/GradeCalculator/releases/download/v1.0.1/GCSwiftUI1.0.1.ipa",
+			"downloadURL": "https://github.com/jawshoeadan/GradeCalculator/releases/download/v1.0.2/GCSwiftUIv1.0.2.ipa",
 			"iconURL": "https://github.com/jawshoeadan/GradeCalculator/raw/master/AppIcon60x60%402x.png",
 			"localizedDescription": "Finally, I made added my first app to AltStore. \n\nThis app is a grade calculator app that you probably should never use because there are better ones out there. The only reason I added this app is to show off that I made it. Also it took me over an hour just to figure out how to compile the .ipa file so that it would work with AltStore. \n\nBut I did it and now you can experience my first ever app I made.",
 			"name": "Josh's Grade Calculator",
@@ -13,9 +13,9 @@
 			"size": 789000,
 			"subtitle": "A grade calculator that I made",
 			"tintColor": "18C983",
-			"version": "1.0.1",
-			"versionDate": "2020-06-15",
-			"versionDescription": "Version 1.0.1: \nThis version is heavily optimized for iPad. \n\n-Fixed startup screen\n-Fixed share sheet crashing on iPad\n-Made button look better\n-Removed herobrine"
+			"version": "1.0.2",
+			"versionDate": "2020-06-16",
+			"versionDescription": "-Increased compatibility from 13.5 and above to 13.0 and above."
 		}
 	],
 	"identifier": "com.jawshoeadan.GC",
