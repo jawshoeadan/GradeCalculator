@@ -8,24 +8,24 @@
 
 /* Begin PBXBuildFile section */
 		7023B5B32497DDBE005164F4 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7023B5B22497DDBE005164F4 /* Launch Screen.storyboard */; };
+		703C0A7725A4E089003AEA72 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 703C0A7625A4E089003AEA72 /* Assets.xcassets */; };
 		704285F22432BE0600A4ACA1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 704285F12432BE0600A4ACA1 /* AppDelegate.swift */; };
 		704285F42432BE0600A4ACA1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 704285F32432BE0600A4ACA1 /* SceneDelegate.swift */; };
 		704285F62432BE0600A4ACA1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 704285F52432BE0600A4ACA1 /* ContentView.swift */; };
 		704285FB2432BE0E00A4ACA1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 704285FA2432BE0E00A4ACA1 /* Preview Assets.xcassets */; };
-		704A59BB2433248000044A50 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 704A59BA2433248000044A50 /* Assets.xcassets */; };
 		7053E16E24330A000058AF89 /* DIN Alternate Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7053E16D24330A000058AF89 /* DIN Alternate Bold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		7023B5B22497DDBE005164F4 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "Launch Screen.storyboard"; path = "GradeCalculatorSwiftUI/Launch Screen.storyboard"; sourceTree = "<group>"; };
 		7036207E25033DEB00CBD577 /* GradeCalculator.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = GradeCalculator.entitlements; sourceTree = "<group>"; };
+		703C0A7625A4E089003AEA72 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		704285EE2432BE0600A4ACA1 /* GC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GC.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		704285F12432BE0600A4ACA1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		704285F32432BE0600A4ACA1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		704285F52432BE0600A4ACA1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		704285FA2432BE0E00A4ACA1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		704285FF2432BE0E00A4ACA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		704A59BA2433248000044A50 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../GradeCalculator/GradeCalculator/Assets.xcassets; sourceTree = "<group>"; };
 		704A59BC2433299200044A50 /* DIN Alternate Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DIN Alternate Bold.ttf"; sourceTree = "<group>"; };
 		7053E16D24330A000058AF89 /* DIN Alternate Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DIN Alternate Bold.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -66,7 +66,7 @@
 				704285F12432BE0600A4ACA1 /* AppDelegate.swift */,
 				704285F32432BE0600A4ACA1 /* SceneDelegate.swift */,
 				7053E16C243309580058AF89 /* Font */,
-				704A59BA2433248000044A50 /* Assets.xcassets */,
+				703C0A7625A4E089003AEA72 /* Assets.xcassets */,
 				704285FF2432BE0E00A4ACA1 /* Info.plist */,
 				704285F92432BE0E00A4ACA1 /* Preview Content */,
 			);
@@ -151,7 +151,7 @@
 				704285FB2432BE0E00A4ACA1 /* Preview Assets.xcassets in Resources */,
 				7053E16E24330A000058AF89 /* DIN Alternate Bold.ttf in Resources */,
 				7023B5B32497DDBE005164F4 /* Launch Screen.storyboard in Resources */,
-				704A59BB2433248000044A50 /* Assets.xcassets in Resources */,
+				703C0A7725A4E089003AEA72 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
